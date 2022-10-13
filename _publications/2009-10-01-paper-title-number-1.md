@@ -1,15 +1,25 @@
 ---
-title: "Paper Title Number 1"
+title: "Representative Image Feature Extraction via Contrastive Learning Pretraining for Chest X-ray Report Generation"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink:
+excerpt:
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'Arxiv'
+paperurl: 'https://arxiv.org/pdf/2209.01604.pdf'
+citation: '@article{chen2022representative,
+  title={Representative Image Feature Extraction via Contrastive Learning Pretraining for Chest X-ray Report Generation},
+  author={Chen, Yu-Jen and Shen, Wei-Hsiang and Chung, Hao-Wei and Chiu, Jing-Hao and Juan, Da-Cheng and Ho, Tsung-Ying and Cheng, Chi-Tung and Li, Meng-Lin and Ho, Tsung-Yi},
+  journal={arXiv preprint arXiv:2209.01604},
+  year={2022}
+}'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Medical report generation is a challenging task since it is time-consuming and requires expertise from experienced radiologists. The goal of medical report generation is to accurately capture and describe the image findings. Previous works pretrain their visual encoding neural networks with large datasets in different domains, which cannot learn general visual representation in the specific medical domain. In this work, we propose a medical report generation framework that uses a contrastive learning approach to pretrain the visual encoder and requires no additional meta information. In addition, we adopt lung segmentation as an augmentation method in the contrastive learning framework. This segmentation guides the network to focus on encoding the visual feature within the lung region. Experimental results show that the proposed framework improves the performance and the quality of the generated medical reports both quantitatively and qualitatively.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://arxiv.org/pdf/2209.01604.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: @article{chen2022representative,
+  title={Representative Image Feature Extraction via Contrastive Learning Pretraining for Chest X-ray Report Generation},
+  author={Chen, Yu-Jen and Shen, Wei-Hsiang and Chung, Hao-Wei and Chiu, Jing-Hao and Juan, Da-Cheng and Ho, Tsung-Ying and Cheng, Chi-Tung and Li, Meng-Lin and Ho, Tsung-Yi},
+  journal={arXiv preprint arXiv:2209.01604},
+  year={2022}
+}
