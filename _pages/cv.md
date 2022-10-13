@@ -11,10 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, National Tsing Hua University, 2018-2022
+* B.S. in National Tsing Hua University, 2018-2022
    * GPA: 4.09/ 4.3, 3.90/ 4.3
    * Last 60 Units GPA: 4.24/4.3
    * Award: Academic Excellence Award for the top 5% students in the department of Computer Science
+
+
 Work experience
 ======
 
@@ -23,7 +25,7 @@ Work experience
   * Conduct research on fair representation learning on medical images and natural images.
   * Proposed a Multi-Exit debias CNN framework on CelebA \& UTK dataset.
   * Achieve state-of-the-art within the trade-off between accuracy and fairness.
-  * Improved fairness metric in 20\% while losing 0.13\% in accuracy.
+  * Improved fairness metric in 20% while losing 0.13% in accuracy.
   * The work is under review by ICLR2023.
   
 * Jan. 2022 -- Aug. 2022: SWE Intern
