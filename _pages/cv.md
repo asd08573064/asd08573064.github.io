@@ -11,30 +11,58 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
+* B.S. in GitHub, National Tsing Hua University, 2018-2022
+   * GPA: 4.09/ 4.3, 3.90/ 4.3
+   * Last 60 Units GPA: 4.24/4.3
+   * Award: Academic Excellence Award for the top 5% students in the department of Computer Science
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sep. 2022 -- Now: Research Assistant
+  * National Tsing Hua University
+  * Conduct research on fair representation learning on medical images and natural images.
+  * Proposed a Multi-Exit debias CNN framework on CelebA \& UTK dataset.
+  * Achieve state-of-the-art within the trade-off between accuracy and fairness.
+  * Improved fairness metric in 20\% while losing 0.13\% in accuracy.
+  * The work is under review by ICLR2023.
+  
+* Jan. 2022 -- Aug. 2022: SWE Intern
+  * AMD
+  * Built an ISP tuning tool that assisted more than 20 engineers across Taiwan and China on verifying and calibrating their imaging algorithms.
+  * Built the tuning platform with C++, Python, Numpy, PyQt, CPython, and Visual Studio.
+  * Designed and built a pivotal data conversion feature for raw image database that saved 90\% tuning time.
+  * Developed the tuning UI that assisted engineers to do high-level tuning and saved 50\% developing time.
+
+* Jul. 2020 -- Feb. 2020: Teaching Assistant of Logic Design Laboratory
+  * Assisted professor to mark the exams and assign the homework and helped students in studying FPGA and Verilog.
+
+* Jul. 2020 -- Aug. 2020: SWE Intern
+  * POINT Robotic
+  * Improved the product algorithm with OpenCV and non-learning-based image processing methods.
+  * Added new manual labeling feature to object detection algorithm that provided flexibility to users.
+
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python
+  * C/C++ 
+  * HTML/CSS 
+  * JavaScript 
+  * Typescript
+* Technologies/Frameworks
+  * Linux
+  * Pytorch 
+  * Tensorflow 
+  * Pyspark 
+  * Numpy 
+  * OpenCV  
+  * Scikit-learn 
+  * Visual Studio 
+  * Rabbit-MQ 
+  * K8s 
+  * Docker
 
 Publications
 ======
@@ -42,17 +70,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
