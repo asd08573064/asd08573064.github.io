@@ -43,31 +43,12 @@ Work experience
   * Improved the product algorithm with OpenCV and non-learning-based image processing methods.
   * Added new manual labeling feature to object detection algorithm that provided flexibility to users.
 
-
-  
-Skills
-======
-* Programming Languages
-  * Python
-  * C/C++ 
-  * HTML/CSS 
-  * JavaScript 
-  * Typescript
-* Technologies/Frameworks
-  * Linux
-  * Pytorch 
-  * Tensorflow 
-  * Pyspark 
-  * Numpy 
-  * OpenCV  
-  * Scikit-learn 
-  * Visual Studio 
-  * Rabbit-MQ 
-  * K8s 
-  * Docker
-
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+  
+  
+<embed src="{{ site.baseurl }}/files/cv.pdf" width="600" height="700" type='application/pdf'>
