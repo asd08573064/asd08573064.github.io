@@ -30,7 +30,8 @@ We deploy the bot on a cluster with 8 gpus via k8s, docker, and rabbitmq.
 
 Vending Machine
 ------
-TestTestTestTestTest
+[project link](https://github.com/asd08573064/vending-mahine)
+Final project of logic design lab. Built a "REAL" vending machine with Basys3 FPGA board as the controller.
 
 Publications
 ======
