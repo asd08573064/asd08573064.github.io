@@ -13,10 +13,14 @@ redirect_from:
  
 Projects
 ======
-TestTestTestTestTestTestTestTest
 
 Face swaping Discord bot
 ------
+
+Before swapping            |  After swapping
+:-------------------------:|:-------------------------:
+![](/images/ton_face1.png) |  ![](/images/ton_face2.png) 
+
 
 [chatbot link](https://jnnnnyao.github.io/ElonMA/)
 
