@@ -9,29 +9,6 @@ redirect_from:
 ---
 
  👋 My name is Hao-Wei, I am a research assistant at National [Tsing Hua University](https://nthu-en.site.nthu.edu.tw/) at [Theta Lab](http://theta.cs.nthu.edu.tw/) advices by Prof. **Yiyu Shi** at the [Unversity of Notre Dame](https://www.nd.edu/).  During my B.S study, I interned at AMD and Point Robotics. My primary areas of interest in research are AI fairness and computer vision 👀 in medical field. Currently, I am conducting research on AI Fairness on dermatological task and submitted my first co-author paper about AI fairness to ICLR2023. I plan to extend my work to a unsupervised manner (without any sensitive attributes). Also, right now, I am applying for M.S. and Phd programs in Computer Science in the U.S. Feel free to contact me if you have any questions!
- 
- 
-Projects
-======
-
-Face swaping Discord bot
-------
-
-Before swapping            |  After swapping
-:-------------------------:|:-------------------------:
-![](/images/ton_face1.png) |  ![](/images/ton_face2.png) 
-
-
-[chatbot link](https://jnnnnyao.github.io/ElonMA/)
-
-
-A interesting face swapping bot that will swap the faces on the input image to Elon Musk's face.
-We deploy the bot on a cluster with 8 gpus via k8s, docker, and rabbitmq.
-
-Vending Machine
-------
-[project link](https://github.com/asd08573064/vending-mahine)
-Final project of logic design lab. Built a "REAL" vending machine with Basys3 FPGA board as the controller.
 
 Publications
 ======
