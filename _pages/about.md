@@ -15,9 +15,14 @@ Projects
 ======
 TestTestTestTestTestTestTestTest
 
-Recommanding Sysyem
+Face swaping Discord bot
 ------
-TestTestTestTestTestTest
+
+[chatbot link](https://jnnnnyao.github.io/ElonMA/)
+
+
+A interesting face swapping bot that will swap the faces on the input image to Elon Musk's face.
+We deploy the bot on a cluster with 8 gpus via k8s, docker, and rabbitmq.
 
 Vending Machine
 ------
