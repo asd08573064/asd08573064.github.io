@@ -4,7 +4,7 @@ main:
     url: "#Publications"
 
   - title: "Selected Projects"
-    url: "#Projects"
+    url: "/projects/"
     
   - title: "CV"
     url: /cv/
