@@ -19,11 +19,15 @@ Research
 
 **Chung, Hao Wei***, Chiu, Jing Hao*, Chen, Yu Juan, Ho, Tsung Yi, Shi, Yu Yi(2022)
 
+Submitted to DAC 2023
+
 ![model](https://user-images.githubusercontent.com/43490777/203787809-cb81e18e-108d-46db-8cb5-bdfbd87a6641.png)
 
 ## Fair Multi-exit Framework for Facial Attribute Classification
 
 **Chung, Hao Wei***, Chiu, Jing Hao*, Chen, Yu Juan, Ho, Tsung Yi, Shi, Yu Yi(2022)
+
+Submitted to AAAI AI for Social Good workshop
 
 ![Method](https://user-images.githubusercontent.com/43490777/203788375-ea59d791-942f-4d42-87df-26a9f577b381.png)
 
@@ -32,6 +36,8 @@ Research
 ## Representative Image Feature Extraction via Contrastive Learning Pretraining for Chest X-ray Report Generation
 
 Chen, Y. J., Shen, **Chung, H. W.**, Chiu, J. H., Juan, D. C., Ho, T. Y., ... & Ho, T. Y. (2022)
+
+Arxiv
 
 ![clnlp](https://user-images.githubusercontent.com/43490777/203788648-9d0aad88-07bd-4920-9346-988b8968227c.png)
 
