@@ -12,4 +12,4 @@ redirect_from:
 
 Research Interest
 ======
-My primary areas of interest in research are connecting robustness, generalization, and individual fairness, through the unsupervised or weakly supervised. Moreover, I am also interested in the fusion of computer vision and medical imaging.
+My primary areas of interest in research are connecting robustness, generalization, and individual fairness, through the unsupervised or weakly supervised learning. Moreover, I am also interested in the fusion of computer vision and medical imaging.
