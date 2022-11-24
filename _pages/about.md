@@ -17,7 +17,7 @@ Research
 ======
 ## Toward Fairness via Maximum Mean Discrepancy Regularization on Logits Space
 
-**Chung, Hao Wei***, Chiu, Jing Hao*, Chen, Yu Juan, Ho, Tsung Yi, Shi, Yu Yi(2022)
+**Chung, Hao Wei***, Chiu, Jing Hao*, Chen, Yu Juan, Ho, Tsung Yi, Shi, Yu Yi (2022)
 
 Submitted to DAC 2023
 
@@ -25,7 +25,7 @@ Submitted to DAC 2023
 
 ## Fair Multi-exit Framework for Facial Attribute Classification
 
-**Chung, Hao Wei***, Chiu, Jing Hao*, Chen, Yu Juan, Ho, Tsung Yi, Shi, Yu Yi(2022)
+**Chung, Hao Wei***, Chiu, Jing Hao*, Chen, Yu Juan, Ho, Tsung Yi, Shi, Yu Yi (2022)
 
 Submitted to AAAI AI for Social Good workshop
 
