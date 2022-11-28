@@ -15,13 +15,13 @@ My primary areas of interest in research are connecting robustness, generalizati
 
 Research
 ====== 
-### Toward Fairness via Maximum Mean Discrepancy Regularization on Logits Space **Chung, Hao Wei***, Chiu, Jing Hao*, Chen, Yu Juan, Ho, Tsung Yi, Shi, Yu Yi (2022)
+### Toward Fairness via Maximum Mean Discrepancy Regularization on Logits Space - **Chung, Hao Wei***, Chiu, Jing Hao*, Chen, Yu Juan, Ho, Tsung Yi, Shi, Yu Yi (2022)
 
 Submitted to DAC 2023
 
 ![model](https://user-images.githubusercontent.com/43490777/203787809-cb81e18e-108d-46db-8cb5-bdfbd87a6641.png)
 
-### Fair Multi-exit Framework for Facial Attribute Classification **Chung, Hao Wei***, Chiu, Jing Hao*, Chen, Yu Juan, Ho, Tsung Yi, Shi, Yu Yi (2022)
+### Fair Multi-exit Framework for Facial Attribute Classification - **Chung, Hao Wei***, Chiu, Jing Hao*, Chen, Yu Juan, Ho, Tsung Yi, Shi, Yu Yi (2022)
 
 Submitted to AAAI AI for Social Good workshop
 
@@ -29,7 +29,7 @@ Submitted to AAAI AI for Social Good workshop
 
 
 
-### Representative Image Feature Extraction via Contrastive Learning Pretraining for Chest X-ray Report Generation Chen, Y. J., Shen, **Chung, H. W.**, Chiu, J. H., Juan, D. C., Ho, T. Y., ... & Ho, T. Y. (2022)
+### Representative Image Feature Extraction via Contrastive Learning Pretraining for Chest X-ray Report Generation - Chen, Y. J., Shen, **Chung, H. W.**, Chiu, J. H., Juan, D. C., Ho, T. Y., ... & Ho, T. Y. (2022)
 
 Arxiv
 
