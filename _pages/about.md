@@ -12,6 +12,9 @@ redirect_from:
 
 My primary areas of interest in research are connecting robustness, generalization, and individual fairness, through the unsupervised or weakly supervised learning. Moreover, I am also interested in the fusion of computer vision and medical imaging.
 
+News
+====== 
+Our paper "Fair Multi-exit Framework for Facial Attribute Classification" **Chung, Hao Wei***, Chiu, Jing Hao*, Chen, Yu Juan, Ho, Tsung Yi, Shi, Yu Yi is accepted by AAAI Workshop on AI for Social Good!
 
 Research
 ====== 
