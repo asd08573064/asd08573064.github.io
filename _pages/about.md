@@ -7,26 +7,39 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Actively looking for 2024 summer internship.
 
-  👋 My name is Hao-Wei. I am a research assistant at National [Tsing Hua University](https://nthu-en.site.nthu.edu.tw/) at [Theta Lab](http://theta.cs.nthu.edu.tw/) advised by Prof. **Yiyu Shi** at the [Unversity of Notre Dame](https://www.nd.edu/). During my B.S study, I interned at AMD and Point Robotics. Right now, I am applying for M.S. and Ph.D. programs in Computer Science in the U.S. Feel free to contact me if you have any questions!
+👋 Greetings, I'm Hao-Wei, a dedicated software engineer driven by a profound passion for machine learning and data science. I received my bachelor's degree in Computer Science from National Tsing Hua University. I am currently pursuing a master's degree at Carnegie Mellon University in Computational Data Science program. 
+  
+As a former research assistant at National [Tsing Hua University](https://nthu-en.site.nthu.edu.tw/) at [Theta Lab](http://theta.cs.nthu.edu.tw/), I focused on connecting robustness, generalization, and fairness, through the unsupervised or weakly supervised learning manners in medical domain and yielded two research papers at top conferences (AAAI, MICCAI) of machine learning.
 
-My primary areas of interest in research are connecting robustness, generalization, and individual fairness, through the unsupervised or weakly supervised learning. Moreover, I am also interested in the fusion of computer vision and medical imaging.
+Throughout my internship at AMD, I designed and implemented an internal Image Signal Processor (ISP) tuning platform that significantly improved imaging algorithm efficiency. My time at AMD has equipped me with a practical understanding of software engineering and a commitment to optimizing solutions.
+
+I am enthusiastic about leveraging my expertise and adept problem-solving skills on a global scale. Currently, I am in active pursuit of a summer internship opportunity within the United States. Please don't hesitate to reach out and connect with me to discuss potential openings in software engineering.
+
+
 
 News
 ====== 
-Our paper "Fair Multi-exit Framework for Facial Attribute Classification" **Chung, Hao Wei***, Chiu, Jing Hao*, Chen, Yu Juan, Ho, Tsung Yi, Shi, Yu Yi is accepted by AAAI Workshop on AI for Social Good!
+Our paper "Toward Fairness Through Fair Multi-Exit Framework for Dermatological Disease Diagnosis" Jing Hao*, **Chung, Hao Wei***, Chiu, Chen, Yu Juan, Ho, Tsung Yi, Shi, Yu Yi is accepted by MICCAI (International Conference on Medical Image Computing and Computer Assisted Intervention) 2023!
 
 Research
 ====== 
+### Toward Fairness Through Fair Multi-Exit Framework for Dermatological Disease Diagnosis - Jing Hao*, **Chung, Hao Wei***, Chiu, Chen, Yu Juan, Ho, Tsung Yi, Shi, Yu Yi 
+ 
+Accepted by MICCAI (International Conference on Medical Image Computing and Computer Assisted Intervention) 2023
+
+
 ### Toward Fairness via Maximum Mean Discrepancy Regularization on Logits Space - **Chung, Hao Wei***, Chiu, Jing Hao*, Chen, Yu Juan, Ho, Tsung Yi, Shi, Yu Yi (2022)
 
-Submitted to DAC 2023
+Submitted to BMVC 2023
 
 ![model](https://user-images.githubusercontent.com/43490777/203787809-cb81e18e-108d-46db-8cb5-bdfbd87a6641.png)
 
 ### Fair Multi-exit Framework for Facial Attribute Classification - **Chung, Hao Wei***, Chiu, Jing Hao*, Chen, Yu Juan, Ho, Tsung Yi, Shi, Yu Yi (2022)
 
-Submitted to AAAI AI for Social Good workshop
+
+Accepted by AAAI workshop on AI for Social Good 
 
 ![Method](https://user-images.githubusercontent.com/43490777/203788375-ea59d791-942f-4d42-87df-26a9f577b381.png)
 
