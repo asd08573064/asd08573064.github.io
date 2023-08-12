@@ -15,7 +15,7 @@ As a former research assistant at National [Tsing Hua University](https://nthu-e
 
 Throughout my internship at AMD, I designed and implemented an internal Image Signal Processor (ISP) tuning platform that significantly improved imaging algorithm efficiency. My time at AMD has equipped me with a practical understanding of software engineering and a commitment to optimizing solutions.
 
-I am enthusiastic about leveraging my expertise and adept problem-solving skills on a global scale. Currently, I am in active pursuit of a summer internship opportunity within the United States. Please don't hesitate to reach out and connect with me to discuss potential openings in software engineering.
+I am enthusiastic about leveraging my expertise and adept problem-solving skills on a global scale. Currently, I am in active pursuit of a summer internship opportunity within the United States. Please don't hesitate to reach out to me to talk about potential software engineering openings.
 
 
 
