@@ -21,11 +21,11 @@ I am enthusiastic about leveraging my expertise and adept problem-solving skills
 
 News
 ====== 
-Our paper "Toward Fairness Through Fair Multi-Exit Framework for Dermatological Disease Diagnosis" Jing Hao*, **Chung, Hao Wei***, Chiu, Chen, Yu Juan, Ho, Tsung Yi, Shi, Yu Yi is accepted by MICCAI (International Conference on Medical Image Computing and Computer Assisted Intervention) 2023!
+Our paper "Toward Fairness Through Fair Multi-Exit Framework for Dermatological Disease Diagnosis" Chiu, Jing Hao*, Chung, Hao Wei*, Chen, Yu Juan, Ho, Tsung Yi, Shi, Yu Yi is accepted by MICCAI (International Conference on Medical Image Computing and Computer Assisted Intervention) 2023!
 
 Research
 ====== 
-### Toward Fairness Through Fair Multi-Exit Framework for Dermatological Disease Diagnosis - Jing Hao*, **Chung, Hao Wei***, Chiu, Chen, Yu Juan, Ho, Tsung Yi, Shi, Yu Yi 
+### Toward Fairness Through Fair Multi-Exit Framework for Dermatological Disease Diagnosis - Chiu, Jing Hao*, Chung, Hao Wei*, , Chen, Yu Juan, Ho, Tsung Yi, Shi, Yu Yi 
  
 Accepted by MICCAI (International Conference on Medical Image Computing and Computer Assisted Intervention) 2023
 
